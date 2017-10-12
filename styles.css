@@ -37,18 +37,26 @@
 }
 
 .left {
-    width:60%
+    width:61%
 }
 
 .right {
     
     padding-left: 50px;
-    width: 25%
+    width: 35%
 }
 
 img{
     width:40%px;height:40%;
 }
 footer{
-    display: block;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #8891a0;
+    color: white;
+    text-align: center;
+    padding-top: 1%
+    
 }
